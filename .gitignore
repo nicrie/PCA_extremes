@@ -1,0 +1,8 @@
+# ignore all files
+/books/
+/papers/
+download.py
+dudas.txt
+rr_ens_mean_0.1deg_reg_v21.0e.nc
+rr_ens_mean_0.25deg_reg_v21.0e.nc
+
