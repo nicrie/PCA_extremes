@@ -5,4 +5,9 @@ download.py
 dudas.txt
 rr_ens_mean_0.1deg_reg_v21.0e.nc
 rr_ens_mean_0.25deg_reg_v21.0e.nc
+Yujing_RCode/python-U_aso.RData
+Yujing_RCode/python-V_aso.RData
+Yujing_RCode/python-aso_tran.RData
+Yujing_RCode/python-sigma_aso.RData
+code/.ipynb_checkpoints/PCA_extremes-checkpoint.ipynb
 
